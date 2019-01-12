@@ -1,6 +1,9 @@
 # RLG
-RandomLifeGenerator
 
-Project originally created during classes with some of my friends, that I upgraded and continued even after. It's such really basic, works with Python. As say in the title, it allows you to create random and totally WTF lifes for the personns you want. Just gotta change the names in the lists which are meant for this.
+> RandomLifeGenerator
+
+This project has originally been created during classes with some of my friends. I then continued working on it. It's really basic, and works with just Python, no dependencies.
+
+As hinted by its name, it allows you to create random and totally WTF life forms for the persons you want. Just gotta change the names in the lists.
 
 Enjoy creating WTF things.
